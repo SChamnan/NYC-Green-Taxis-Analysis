@@ -32,8 +32,9 @@ This project analyzes **NYC Green Taxi** trip data from **2019–2023** to uncov
 * Interpreted results with a business lens
 
 ## Tableau Visualizations
-Link to dashboard 1 NYC Green Taxis Riders Behavior Analysis:https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RiderBehaviorDashboard?publish=yes
-Link to dashboard 2 NYC Green Taxis Revenue Analysis: https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RevenueDashboard?publish=yes
+- Link to dashboard 1 NYC Green Taxis Riders Behavior Analysis:https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RiderBehaviorDashboard?publish=yes
+- Link to dashboard 2 NYC Green Taxis Revenue Analysis: https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RevenueDashboard?publish=yes
+
 <img width="1474" height="844" alt="image" src="https://github.com/user-attachments/assets/f2de6bf3-a5e4-4e89-9c84-08837bd9b8c8" />
 <img width="1475" height="843" alt="image" src="https://github.com/user-attachments/assets/7be76a2f-96d7-4384-8e86-bd95fb0135f9" />
 
