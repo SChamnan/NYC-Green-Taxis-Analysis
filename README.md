@@ -14,14 +14,13 @@ This project analyzes **NYC Green Taxi** trip data from **2019–2023** to uncov
 
 ## Data
 
-* **Source:** NYC Taxi & Limousine Commission (TLC)
+* **Source:** NYC Open Data: https://opendata.cityofnewyork.us/
 * **Type:** Trip-level Green Taxi records
 * **Key Fields:** pickup/drop-off time & location, trip distance, fare, tip, total amount
 
 ## Tools
 
-* **SQL (Google BigQuery)** – data extraction & aggregation
-* **Python (Pandas, NumPy)** – cleaning & analysis
+* **SQL (Google BigQuery)** – data extraction, cleaning & aggregation
 * **Tableau Desktop/Tableau Public** – visualization
 * **Jupyter Notebook** – reproducible workflow
 
@@ -32,11 +31,21 @@ This project analyzes **NYC Green Taxi** trip data from **2019–2023** to uncov
 * Performed exploratory analysis and visualized trends
 * Interpreted results with a business lens
 
+## Tableau Visualizations
+Link to dashboard 1 NYC Green Taxis Riders Behavior Analysis:https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RiderBehaviorDashboard?publish=yes
+Link to dashboard 2 NYC Green Taxis Revenue Analysis: https://public.tableau.com/app/profile/chamnan.suon/viz/A07-NYC-Green-Taxis-Analysis/RevenueDashboard?publish=yes
+<img width="1474" height="844" alt="image" src="https://github.com/user-attachments/assets/f2de6bf3-a5e4-4e89-9c84-08837bd9b8c8" />
+<img width="1475" height="843" alt="image" src="https://github.com/user-attachments/assets/7be76a2f-96d7-4384-8e86-bd95fb0135f9" />
+
+
+
+
 ## Key Insights
 
-* **Manhattan shows the highest average tip amounts** across years
-* **Trip volumes dropped sharply in 2020** due to COVID-19, followed by gradual recovery
-* Outer boroughs have **longer trips but lower frequency**
+- Manhattan consistently leads in average tip amounts and revenue density, reflecting higher fare intensity and rider willingness to tip.
+- COVID-19 caused a sharp demand contraction in 2020, with a steady but uneven recovery through 2023 across boroughs.
+- Outer boroughs exhibit longer average trip distances but lower trip frequency, indicating different use cases and revenue dynamics than core urban areas.
+- Revenue and demand are highly concentrated by location and time, suggesting opportunities for targeted operations and policy interventions.
 
 ## Business Value
 
