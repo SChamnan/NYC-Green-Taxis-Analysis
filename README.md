@@ -1,2 +1,4 @@
 # NYC-Green-Taxis-Analysis
-A team project from Business Analytics Tool Box at Boston Unversity
+**Team 07**: Chamnan Suon (project manager), Anna Baldzikowski, Allison Kramer, Akhil Nair, Mudongfang Li
+
+
